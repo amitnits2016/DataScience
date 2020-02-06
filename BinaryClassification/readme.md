@@ -13,8 +13,8 @@ This is achieved with a **supervised machine learning classification** model tha
 
 The Project consists of the following steps:
 
-1. [Exploratory Data Analysis]()
-3. [Feature Engineering]()
-4. [Model Training]()
+1. [Exploratory Data Analysis](https://github.com/amitnits2016/DataScience/tree/master/BinaryClassification/01.%20Exploratory%20Data%20Analysis)
+3. [Feature Engineering](https://github.com/amitnits2016/DataScience/tree/master/BinaryClassification/02.%20Feature%20Engineering)
+4. [Model Training](https://github.com/amitnits2016/DataScience/tree/master/BinaryClassification/03.%20Model%20Training)
 
 For any comments, suggestions or everything else, you can find me at my [mail](mailto:amit.nits2016@gmail.com), [linkedin](https://www.linkedin.com/in/amitnits2016/) or [webpage](https://about.me/amitnits2016)!
